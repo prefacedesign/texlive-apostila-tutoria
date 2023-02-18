@@ -1,6 +1,6 @@
 # Versão do texlive para compilar o projeto `github.com/prefacedesign/apoio-calc-ga`
 
-Esta imagem docker é baseada na imagem docker: ``texlive/texlive:TL2021-historic``, seguida da instalação de todas as fontes necessárias. Para que esta imagem funciona é preciso que as fontes ainda estejam nos mesmos endereços:
+Esta imagem docker é baseada na imagem docker: ``texlive/texlive:TL2021-historic``, incluindo a instalação de todas as fontes necessárias. Para que esta imagem funcione é preciso que as fontes ainda estejam nos mesmos endereços:
 
 - https://github.com/google/fonts/raw/main/ofl/archivoblack/ArchivoBlack-Regular.ttf 
 - https://fonts.google.com/download?family=Archivo
